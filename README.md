@@ -1,5 +1,5 @@
 # SMKN7-Edugame Amped Up
-Tim Apollo
+**Tim Apollo**
 
 **Pengembang:**\
 Muhammad Thareq Iqbal Rayyan\
