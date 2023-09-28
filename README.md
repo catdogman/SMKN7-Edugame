@@ -3,6 +3,7 @@ Tim Apollo
 
 Pengembang:
 Muhammad Thareq Iqbal Rayyan
+
 Joestiharto (pembimbing)
 
 # Panduan cara bermain
