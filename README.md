@@ -1,12 +1,12 @@
-# SMKN7-Edugame
+# SMKN7-Edugame Amped Up
 Tim Apollo
 
-Pengembang:
+**Pengembang:**
 Muhammad Thareq Iqbal Rayyan
 
 Joestiharto (pembimbing)
 
-# Panduan cara bermain
+**Panduan cara bermain**
 URL: x
 
 # Paduan penggunaan aplikasi
