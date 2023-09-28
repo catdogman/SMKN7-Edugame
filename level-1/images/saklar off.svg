@@ -1,0 +1,13 @@
+<svg width="131" height="146" viewBox="0 0 131 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="131" height="146" fill="#F5F5F5"/>
+<circle cx="40" cy="95" r="8" fill="#FF4B4B"/>
+<circle cx="93" cy="95" r="8" fill="#FF4B4B"/>
+<line x1="85" y1="95.5" x2="76" y2="95.5" stroke="black"/>
+<line x1="70.6" y1="93.3" x2="64.6" y2="85.3" stroke="black"/>
+<line x1="57" y1="95.5" x2="48" y2="95.5" stroke="black"/>
+<circle cx="72.5" cy="95.5" r="3" stroke="black"/>
+<circle cx="60.5" cy="95.5" r="3" stroke="black"/>
+<rect x="31" y="12" width="68" height="68" fill="#E1E1E1"/>
+<rect x="60" y="32" width="11" height="25" fill="white"/>
+<rect x="60" y="32" width="11" height="13" fill="#EAEAEA"/>
+</svg>

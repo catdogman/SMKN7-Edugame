@@ -1,0 +1,16 @@
+<svg width="131" height="146" viewBox="0 0 131 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="131" height="146" fill="#F5F5F5"/>
+<circle cx="45" cy="87" r="8" fill="#151515"/>
+<circle cx="45" cy="121" r="8" fill="#151515"/>
+<circle cx="86" cy="87" r="8" fill="#FF4B4B"/>
+<circle cx="86" cy="121" r="8" fill="#FF4B4B"/>
+<path d="M45.5 113V95" stroke="black" stroke-dasharray="3 3"/>
+<line x1="86.5059" y1="113.002" x2="86.4864" y2="108.624" stroke="black"/>
+<line x1="87.6474" y1="105.786" x2="91.5263" y2="102.85" stroke="black"/>
+<line x1="86.4463" y1="99.3805" x2="86.4269" y2="95.0022" stroke="black"/>
+<circle cx="86.7365" cy="106.92" r="1.20268" transform="rotate(89.7457 86.7365 106.92)" stroke="black"/>
+<circle cx="86.7102" cy="101.082" r="1.20268" transform="rotate(89.7457 86.7102 101.082)" stroke="black"/>
+<rect x="41" y="5" width="49" height="68" fill="#E1E1E1"/>
+<rect x="61.8975" y="25" width="7.92647" height="25" fill="#9575DE"/>
+<path d="M61.8975 25H69.8239V38H61.8975V25Z" fill="#6554AF"/>
+</svg>
