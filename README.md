@@ -7,7 +7,7 @@ Joestiharto (pembimbing)\
 \
 \
 **Panduan cara bermain**\
-URL: x
+URL: https://youtu.be/vlaFZLzhQ4s
 
 # Panduan penggunaan aplikasi
 Install Node.JS http-server atau web server lainnya untuk menjalankan aplikasi.\
