@@ -1,17 +1,14 @@
 # SMKN7-Edugame Amped Up
-Tim Apollo
+Tim Apollo\
 
-**Pengembang:**
-
-
-Muhammad Thareq Iqbal Rayyan
-
-Joestiharto (pembimbing)
-
-
-
-**Panduan cara bermain**
-URL: x
+**Pengembang:**\
+Muhammad Thareq Iqbal Rayyan\
+Joestiharto (pembimbing)\
+\
+\
+\
+**Panduan cara bermain**\
+URL: x\
 
 # Paduan penggunaan aplikasi
 Install Node.JS http-server atau web server lainnya untuk menjalankan aplikasi. 
