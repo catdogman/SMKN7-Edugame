@@ -9,7 +9,7 @@ Joestiharto (pembimbing)\
 **Panduan cara bermain**\
 URL: x
 
-# Paduan penggunaan aplikasi
+# Panduan penggunaan aplikasi
 Install Node.JS http-server atau web server lainnya untuk menjalankan aplikasi. 
 Demonstrasi game berada di URL: x
 
