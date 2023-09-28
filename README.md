@@ -10,7 +10,8 @@ Joestiharto (pembimbing)\
 URL: x
 
 # Panduan penggunaan aplikasi
-Install Node.JS http-server atau web server lainnya untuk menjalankan aplikasi. 
+Install Node.JS http-server atau web server lainnya untuk menjalankan aplikasi./
+Prehosted game: https://smkn7-edugame.pages.dev/
 
 Install http-server Node.JS (Jika belum install Node.JS, install terlebih dahulu)
 ```
